@@ -1,0 +1,16 @@
+-0.01 100.00 Invalid
+0.00 100.00 Lương bình thường
+0.01 100.00 Lương bình thường
+39.99 100.00 Lương bình thường
+40.00 100.00 Lương bình thường
+40.01 100.00 Lương tăng ca
+59.99 100.00 Lương tăng ca
+60.00 100.00 Lương tăng ca
+60.01 100.00 Invalid
+20.00 29.99 Invalid
+20.00 30.00 Lương bình thường
+20.00 30.01 Lương bình thường
+20.00 199.99 Lương bình thường
+20.00 200.00 Lương bình thường
+20.00 200.01 Invalid
+

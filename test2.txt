@@ -1,0 +1,19 @@
+-1 7 Invalid
+0 7 Không đủ tuổi xem phim
+1 7 Không đủ tuổi xem phim
+4 7 Không đủ tuổi xem phim
+5 7 Không đủ tuổi xem phim
+6 7 Vé trẻ em
+15 7 Vé trẻ em
+16 7 Vé trẻ em
+17 7 Vé người lớn
+99 7 Vé người lớn
+100 7 Vé người lớn
+101 7 Invalid
+20 0 Lương bình thường
+20 1 Lương bình thường
+20 2 Invalid
+20 9 Vé người lớn
+20 10 Vé người lớn
+20 11 Invalid
+
