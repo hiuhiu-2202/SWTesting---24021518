@@ -4,7 +4,7 @@ from Code1 import check_salary
 def main():
     tests = 0
 
-    with open("test1.txt", "r", encoding="utf-8") as file:
+    with open("1.1/test1.txt", "r", encoding="utf-8") as file:
 
         for line in file:
 

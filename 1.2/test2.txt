@@ -1,0 +1,19 @@
+-1 5 Invalid
+0 5 Không đủ tuổi xem phim
+1 5 Không đủ tuổi xem phim
+4 5 Không đủ tuổi xem phim
+5 5 Không đủ tuổi xem phim
+6 5 Vé trẻ em
+15 5 Vé trẻ em
+16 5 Vé trẻ em
+17 5 Vé người lớn
+99 5 Vé người lớn
+100 5 Vé người lớn
+101 5 Invalid
+50 0 Invalid
+50 1 Vé người lớn
+50 2 Vé người lớn
+50 9 Vé người lớn
+50 10 Vé người lớn
+50 11 Invalid
+

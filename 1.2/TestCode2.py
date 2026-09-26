@@ -4,7 +4,7 @@ from Code2 import check_ticket
 def main():
     tests = 0
 
-    with open("test2.txt", "r", encoding="utf-8") as file:
+    with open("1.2/test2.txt", "r", encoding="utf-8") as file:
 
         for line in file:
 

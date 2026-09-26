@@ -1,5 +1,6 @@
 def check_ticket(age:int, slot:int):
-    if age < 0 or age >= 100 or slot <= 1 or slot > 10: #sửa < thành <= và > thành >=
+    if age < 0 or age >= 100 or slot <= 1 or slot > 10: 
+        #sửa < 1 thành <= 1 và > thành >= 100
         return "Invalid"
 
     if slot >= 1 and slot <= 10:
